@@ -49,7 +49,7 @@ The Medicine Reminder App is a Flutter application designed to help users manage
 
 ### APK and Sample Prescription
 - **APK:** [Download APK](link_to_your_apk)
-- **Sample Prescription:** [Download Sample Prescription](link_to_your_sample_prescription)
+- **Sample Prescription:** [Download Sample Prescription](https://github.com/akashvelanr/medicine-remainder-app-with-prescriptions-scanner/tree/main/sample%20prescriptions)
 
 
 
